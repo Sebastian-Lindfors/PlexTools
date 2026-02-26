@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PlexTools.API/PlexTools.API.csproj" />
+  <Project Path="PlexTools.Console/PlexTools.Console.csproj" />
+  <Project Path="PlexTools.Core/PlexTools.Core.csproj" />
+</Solution>

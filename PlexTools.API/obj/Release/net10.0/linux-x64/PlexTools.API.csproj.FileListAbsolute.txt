@@ -1,0 +1,15 @@
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/bin/Release/net10.0/linux-x64/PlexTools.API.deps.json
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/bin/Release/net10.0/linux-x64/PlexTools.API.dll
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/bin/Release/net10.0/linux-x64/PlexTools.API.pdb
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/bin/Release/net10.0/linux-x64/PlexTools.Core.dll
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/bin/Release/net10.0/linux-x64/PlexTools.Core.pdb
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.csproj.AssemblyReference.cache
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.AssemblyInfoInputs.cache
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.AssemblyInfo.cs
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.csproj.CoreCompileInputs.cache
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTool.79FEE0AB.Up2Date
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.dll
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/refint/PlexTools.API.dll
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/PlexTools.API.pdb
+/var/home/sebastian/Coding Projects/PlexTools/PlexTools.API/obj/Release/net10.0/linux-x64/ref/PlexTools.API.dll
