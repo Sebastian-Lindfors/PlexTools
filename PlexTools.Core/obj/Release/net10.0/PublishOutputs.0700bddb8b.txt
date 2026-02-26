@@ -1,3 +1,0 @@
-/var/home/sebastian/Coding Projects/PlexTools/PlexTools.Core/bin/Release/net10.0/publish/PlexTools.Core.dll
-/var/home/sebastian/Coding Projects/PlexTools/PlexTools.Core/bin/Release/net10.0/publish/PlexTools.Core.deps.json
-/var/home/sebastian/Coding Projects/PlexTools/PlexTools.Core/bin/Release/net10.0/publish/PlexTools.Core.pdb
